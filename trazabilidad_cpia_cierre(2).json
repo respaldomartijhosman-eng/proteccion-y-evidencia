@@ -1,0 +1,686 @@
+{
+  "autor": "Jhosman Carlos Martínez Morales",
+  "timestamp_cierre": "2026-09-04T01:07:09.664038+00:00",
+  "total_eventos": 15,
+  "raiz_merkle_final": "9e11cada85b189e2c6b8d72975c2e779fa706f88916f210d9607e41ec51de7ca",
+  "eventos": [
+    {
+      "timestamp": "2026-09-04T00:55:51.462201+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "25fe2c97cb9d10b75cf18b52f77731635d50b512caa66ff7c793f3a27bdb2a5b",
+      "esencia": {
+        "archivo_nombre": "motor_CPIA_vectorial.py",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "ed7a97172d432f32b42ad33f32a849453479689538289e7720a6c1275351b81a",
+        "ots_sha256": "2c6f582ec5f2fa08eebe896839a97f962fc1e0240b04ba3378f1e87983f31bb4",
+        "secuencia_num": 1,
+        "contexto_cpia": {
+          "timestamp": "2026-09-04T00:55:47.583814+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: motor_CPIA_vectorial.py",
+              "SHA-256 local verificado: ed7a97172d432f32b42ad33f32a849453479689538289e7720a6c1275351b81a"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-04T00:56:02.526233+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "f099076b5577cd20a87222ca58bbc87e2a0a2cce6e8bc324a95698c9f63d4449",
+      "esencia": {
+        "archivo_nombre": "mini_cerebro.py",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "cf3bbaaf5399955967da51007a9ae784c61430c6cf827802bbedffe5f0305b5d",
+        "ots_sha256": "54f738547ba5b091bfe1a078543ef5f516eb726259ec86323d0589f9378fc3f6",
+        "secuencia_num": 2,
+        "contexto_cpia": {
+          "timestamp": "2026-09-04T00:56:00.567865+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: mini_cerebro.py",
+              "SHA-256 local verificado: cf3bbaaf5399955967da51007a9ae784c61430c6cf827802bbedffe5f0305b5d"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-04T00:56:15.243901+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "6a66b35adf884e6e2a61fce723607d99def6be444157a702e1874b7cdc7ac2ea",
+      "esencia": {
+        "archivo_nombre": "mini_cerebro_2.py",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "b6e37a1a065b4b0358a663ed7a4705a04fb05a3990a53030b5a7fc2a10b11392",
+        "ots_sha256": "5e98daac2d87a10c6d193bdf6f1e411de431949408992914b3748962769faafa",
+        "secuencia_num": 3,
+        "contexto_cpia": {
+          "timestamp": "2026-09-04T00:56:13.255743+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: mini_cerebro_2.py",
+              "SHA-256 local verificado: b6e37a1a065b4b0358a663ed7a4705a04fb05a3990a53030b5a7fc2a10b11392"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-04T00:56:21.471292+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "046359bc2d3130b6aa997a8d420bea6c5d187cfe9bdb523a35410806bf840c2a",
+      "esencia": {
+        "archivo_nombre": "mini_cerebro_3.py",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "4ed9f58b79b214147eba18225862cefeb5a73633c5dda14db4a33ecd122a9fea",
+        "ots_sha256": "35b8655f55c4c6d986b1307f48e539d7a65e63b587b1a9b213856f31468ee344",
+        "secuencia_num": 4,
+        "contexto_cpia": {
+          "timestamp": "2026-09-04T00:56:20.215744+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: mini_cerebro_3.py",
+              "SHA-256 local verificado: 4ed9f58b79b214147eba18225862cefeb5a73633c5dda14db4a33ecd122a9fea"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-04T00:56:30.498050+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "2993495c99eea81e553953d1485a831dd065a0f520bb692413982ff50a5fdc87",
+      "esencia": {
+        "archivo_nombre": "kernel_vectorial.py",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "a2ffe3bd4d02e1a350c13a678d27468a6a324ec822fe2832dd5c3fb8e0751b9f",
+        "ots_sha256": "482bc3a4c4856b5207191e1fc29a27be156c6d10af48ca4a5db39bfb53a0a5c0",
+        "secuencia_num": 5,
+        "contexto_cpia": {
+          "timestamp": "2026-09-04T00:56:29.103506+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: kernel_vectorial.py",
+              "SHA-256 local verificado: a2ffe3bd4d02e1a350c13a678d27468a6a324ec822fe2832dd5c3fb8e0751b9f"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-04T00:56:37.517213+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "60d7e5db98431a494faff9a310dc986f05a5040a705dd40f96d660e57374156a",
+      "esencia": {
+        "archivo_nombre": "k.py",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "a9d4edecddf26999ec88e9aebd95f52a8b4b5175001c6978ec4038bc71f0d3e6",
+        "ots_sha256": "4c42f938cc8761da788c18cb47ceb4fc07037bed722067eeade0cb579aef3fa6",
+        "secuencia_num": 6,
+        "contexto_cpia": {
+          "timestamp": "2026-09-04T00:56:36.048170+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: k.py",
+              "SHA-256 local verificado: a9d4edecddf26999ec88e9aebd95f52a8b4b5175001c6978ec4038bc71f0d3e6"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-04T00:56:47.582775+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "8fcb1b47ab9caa442dad6d5334251ac66bd392098b5ae91dcf6557101575c03c",
+      "esencia": {
+        "archivo_nombre": "consola.py",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "ec98b03bd6b5714e58cd591f827507bc4cd18ab535e0ff887e4b39f6a3b6cd82",
+        "ots_sha256": "0c000ecc788818f7af941023f31139cad48fc6032fbc92af593dbf81353155b0",
+        "secuencia_num": 7,
+        "contexto_cpia": {
+          "timestamp": "2026-09-04T00:56:46.455056+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: consola.py",
+              "SHA-256 local verificado: ec98b03bd6b5714e58cd591f827507bc4cd18ab535e0ff887e4b39f6a3b6cd82"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-04T00:57:02.533457+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "f7b6f4fa5ce3ef8728c61343b4c684f75c04177b2a26e73a85d77b45b08c55e0",
+      "esencia": {
+        "archivo_nombre": "motor_CPIA_vectorial2.py",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "e3066609a8b96fb4af616fd868e317dd1ef9b20bead5f8c984a65535bf01cbbe",
+        "ots_sha256": "980cf6330b5b00666f310d23dd32be01751a590e5a6d67239de1145d6abb39db",
+        "secuencia_num": 8,
+        "contexto_cpia": {
+          "timestamp": "2026-09-04T00:57:00.847771+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: motor_CPIA_vectorial2.py",
+              "SHA-256 local verificado: e3066609a8b96fb4af616fd868e317dd1ef9b20bead5f8c984a65535bf01cbbe"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-04T00:57:09.490074+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "6224a2e3dee5d0e0a08ec16a570706cbb26d02c98fae69b3151bbcd00ec3dce5",
+      "esencia": {
+        "archivo_nombre": "motor_cpia3.py",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "0bd6e0a3dec083e022791b10c3e82041b74405c2083f0cd9ae8e33dc4b58fa39",
+        "ots_sha256": "9294b0fa3cd5d2fa3a81a606b832c328c6071d19c250d88a578ba6e6d212c301",
+        "secuencia_num": 9,
+        "contexto_cpia": {
+          "timestamp": "2026-09-04T00:57:07.623811+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: motor_cpia3.py",
+              "SHA-256 local verificado: 0bd6e0a3dec083e022791b10c3e82041b74405c2083f0cd9ae8e33dc4b58fa39"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-04T00:57:20.663877+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "a6064f336205716549db494fe875bb62fa065570147a1b9da66dda2c02ce6df5",
+      "esencia": {
+        "archivo_nombre": "motor4.py",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "67c183fdcc8a9ec7cfb401b6c597ebe9e0f06ddefce750976f095c7c5d277fc5",
+        "ots_sha256": "e84f7363269e2220a9a1de5ef2736fef750a146448c997e80e71c4006437685e",
+        "secuencia_num": 10,
+        "contexto_cpia": {
+          "timestamp": "2026-09-04T00:57:19.127908+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: motor4.py",
+              "SHA-256 local verificado: 67c183fdcc8a9ec7cfb401b6c597ebe9e0f06ddefce750976f095c7c5d277fc5"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-04T00:57:34.375626+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "64412f8e3258f227ed5f67e8e979aa69856ef8ea0d81b6d9ffb5ff31e067da92",
+      "esencia": {
+        "archivo_nombre": "framework_cpia_unificado.py",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "2b90039bfc8f9166247dc2e03bcfc7334db80ebb8f3148f0b5f6fbbed01e05b1",
+        "ots_sha256": "e2eaca61cd72a8a1eb85e87a5ed7d62198a96a823266d3df75d4db8c92fea121",
+        "secuencia_num": 11,
+        "contexto_cpia": {
+          "timestamp": "2026-09-04T00:57:31.159762+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: framework_cpia_unificado.py",
+              "SHA-256 local verificado: 2b90039bfc8f9166247dc2e03bcfc7334db80ebb8f3148f0b5f6fbbed01e05b1"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-04T00:58:49.863895+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "fa8c3022e1defc016cf1e674adde727955836665134d928a88134bfee6d9e182",
+      "esencia": {
+        "archivo_nombre": "blim_vector_engine.py",
+        "tipo": "DOCUMENTO",
+        "doc_sha256": "6436bc68ae61eaac65bcbd40dc4f951037ff356dd783b5373fb8f62b120fa8dd",
+        "ots_sha256": "ddd177ac29407479c23977657fe91fef3c05f0799c0e66bb59fb1163ac3e7d0d",
+        "secuencia_num": 12,
+        "contexto_cpia": {
+          "timestamp": "2026-09-04T00:58:48.103961+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: blim_vector_engine.py",
+              "SHA-256 local verificado: 6436bc68ae61eaac65bcbd40dc4f951037ff356dd783b5373fb8f62b120fa8dd"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-09-04T01:01:23.136185+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "dd1709675dbe9f037a872364d6568acca150397e475dff71b2e0f8591fd0cfeb",
+      "esencia": {
+        "archivo_nombre": "Texto_Plano_Entrada_13",
+        "tipo": "TEXTO_PLANO",
+        "doc_sha256": "4289cf2ee4a89cf288c943990152b3fe96e8a8eca276da3e60161325aa98b908",
+        "ots_sha256": "f5275aa018240d831315069e031fb49675af9f81e80f6945f5e07282d6a1c0a5",
+        "secuencia_num": 13,
+        "contexto_cpia": {
+          "timestamp": "2026-09-04T01:01:21.127928+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: Texto_Plano_Entrada_13",
+              "SHA-256 local verificado: 4289cf2ee4a89cf288c943990152b3fe96e8a8eca276da3e60161325aa98b908"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        },
+        "preview_texto": "{\n  \"huella_teoria\": \"1334b2e6bfc7d41a505c33b140c2c58218a07b..."
+      }
+    },
+    {
+      "timestamp": "2026-09-04T01:03:55.104166+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "265c09be31e275b908610637968e965277fe9c2c97b9e6f1b2fa855695e96145",
+      "esencia": {
+        "archivo_nombre": "Texto_Plano_Entrada_14",
+        "tipo": "TEXTO_PLANO",
+        "doc_sha256": "196516ec3941eb87aca327454580f5a4b228e72c50f63480e368a34a72fc4833",
+        "ots_sha256": "75e0ee17ee2eeb6d6cf55f3b53971383d4d33a18c5287a6a0d74dc9b97f9d6f5",
+        "secuencia_num": 14,
+        "contexto_cpia": {
+          "timestamp": "2026-09-04T01:03:53.512264+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: Texto_Plano_Entrada_14",
+              "SHA-256 local verificado: 196516ec3941eb87aca327454580f5a4b228e72c50f63480e368a34a72fc4833"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        },
+        "preview_texto": "-87b99569decceaeb8e0860d184cc14e7990c7bf0-a6527af7f12dd614a9..."
+      }
+    },
+    {
+      "timestamp": "2026-09-04T01:06:54.299542+00:00",
+      "estado": "STAMPED_AND_CHAINED",
+      "snapshot_hash": "32e19e9d53d5a7d918ef296433c0a27018c38660624d08dcc29cddb832e03db7",
+      "esencia": {
+        "archivo_nombre": "Texto_Plano_Entrada_15",
+        "tipo": "TEXTO_PLANO",
+        "doc_sha256": "11d0a4430e3e1fba22eaed62783888136899cf327f9dd95bea8d4cdd9aea029c",
+        "ots_sha256": "12f01be9f00e0eb2b993251c9646433bfe61634b812f0047fb2fcfd470041baa",
+        "secuencia_num": 15,
+        "contexto_cpia": {
+          "timestamp": "2026-09-04T01:06:52.543409+00:00",
+          "estado": "LISTO_PARA_SELLADO",
+          "pdf_intent": {
+            "tipo": "registro_contextual",
+            "incluye": [
+              "estructura_de_esencia",
+              "burbujas_verificadas",
+              "burbujas_especulativas",
+              "preguntas",
+              "direccion_logica",
+              "sello_de_autoria"
+            ],
+            "excluye": [
+              "texto_literal",
+              "opiniones_emocionales",
+              "interpretaciones"
+            ]
+          },
+          "etica": {
+            "no_autonomia": true,
+            "no_decision": true,
+            "responsabilidad": "humana"
+          },
+          "conversation_snapshot": {
+            "burbujas_verificadas": [
+              "Fuente registrada: Texto_Plano_Entrada_15",
+              "SHA-256 local verificado: 11d0a4430e3e1fba22eaed62783888136899cf327f9dd95bea8d4cdd9aea029c"
+            ],
+            "burbujas_especulativas": [],
+            "preguntas_infinita": []
+          }
+        },
+        "preview_texto": "{\n  \"certificacion_publica\": {\n    \"autor\": \"Jhosmar Carlos ..."
+      }
+    }
+  ]
+}
